@@ -1,0 +1,7 @@
+    <?xml version="1.0" encoding="UTF-8"?>
+    <item>
+        <version>1.0.0.1</version>  <!-- Uygulamanızın BİR SONRAKİ sürüm numarası -->
+        <url>https://github.com/KULLANICI_ADINIZ/REPO_ADINIZ/releases/download/v1.0.0.1/UYGULAMA_ADI.zip</url> <!-- GitHub Release'deki ZIP dosyasının indirme linki -->
+        <changelog>https://github.com/KULLANICI_ADINIZ/REPO_ADINIZ/blob/main/CHANGELOG.md</changelog> <!-- İsteğe bağlı: Değişiklik günlüğü dosyasının linki -->
+        <mandatory>false</mandatory> <!-- İsteğe bağlı: Güncellemenin zorunlu olup olmadığı (true/false) -->
+    </item>
