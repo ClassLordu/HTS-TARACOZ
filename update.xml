@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.0.1</version>  <!-- Uygulamanızın BİR SONRAKİ sürüm numarası -->
-    <url>https://github.com/ClassLordu/HTS-TARACOZ/releases/download/v1.0.0.1/HTS_TARACOZ.zip</url> <!-- GitHub Release'deki ZIP dosyasının indirme linki -->
+    <version>1.0.0.0</version>  <!-- Uygulamanızın BİR SONRAKİ sürüm numarası -->
+    <url>https://github.com/ClassLordu/HTS-TARACOZ/releases/download/v1.0.0.0/HTS_TARACOZ.zip</url> <!-- GitHub Release'deki ZIP dosyasının indirme linki -->
     <changelog>https://github.com/ClassLordu/HTS-TARACOZ/blob/main/CHANGELOG.md</changelog> <!-- İsteğe bağlı: Değişiklik günlüğü dosyasının linki -->
     <mandatory>true</mandatory> <!-- İsteğe bağlı: Güncellemenin zorunlu olup olmadığı (true/false) -->
     <executable>HTS TARAÇÖZ.exe</executable>
